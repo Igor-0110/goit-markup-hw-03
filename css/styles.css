@@ -252,6 +252,8 @@ margin-bottom: 50px;
 .address-footer {
     color: var(--primary-white-color);
     font-style: normal;
+}
+.footer address {
     margin-top: 20px;
 }
 .contacts-footer{
